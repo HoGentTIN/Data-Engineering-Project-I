@@ -1,4 +1,14 @@
-# Data Engineering Project I
+# Data Engineering Project I 2025-2026
+
+## Groepsleden
+
+| Naam                 | GitHub username                               |
+| :------------------- | :-------------------------------------------- |
+| Voornaam Familienaam | [User](https://github.com/user) |
+| Voornaam Familienaam | [User](https://github.com/user) |
+| Voornaam Familienaam | [User](https://github.com/user) |
+
+## Info
 
 Voor alle info rond het project: zie Chamilo.
 
