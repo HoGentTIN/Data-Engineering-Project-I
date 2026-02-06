@@ -1,1 +1,0 @@
-# Assets rond data-automatisatie
